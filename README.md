@@ -1,3 +1,6 @@
 # Movie App 2019
 
-React JS Fundamentals Course (2019 Update!)
+Use React JS (2019 Update!)
+Use create-react-app to start project (no use set webpack...babel....etc....)
+Use gh-pages to deploy project
+
